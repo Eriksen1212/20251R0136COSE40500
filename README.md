@@ -10,26 +10,12 @@ This repository collects concise overviews and code examples covering core compu
 ## 📂 Repository Structure
 
 20251R0136COSE40500/
+
 ├── README.md
+
 ├── docs/
-│ ├── algorithm.md
-│ ├── AI_overview.md
-│ ├── database_overview.md
-│ ├── deep_learning.md
-│ ├── quick_sort.md
-│ ├── machine_learning_overview.md
-│ └── nosql_overview.md
+
 └── examples/
-├── activity_selection_greedy_example.py
-├── bfs_graph_example.py
-├── binary_search.py
-├── dijkstra_example.py
-├── dfs_graph_example.py
-├── knapsack_dp_example.py
-├── linear_regression_example.py
-├── merge_sort_example.py
-├── quick_sort_example.py
-└── subset_sum_bruteforce_example.py
 
 
 ---
